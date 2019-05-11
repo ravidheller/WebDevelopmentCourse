@@ -1,0 +1,133 @@
+﻿body {
+    direction: rtl;
+    border-color:none;
+    
+    }
+
+nav ul li {
+    margin: 25px;
+    list-style: none;
+    display: inline-block;
+    float: right;
+    background-color: #ffffff;
+    color: white;
+    width: 120px;
+    height: 30px;
+    padding-top: 10px;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 100px;
+    text-align: center;
+    font-family: 'Levenim MT';
+}
+    nav ul li a:visited {
+        background-color: #3097D2;
+    }
+
+    nav ul li a:active {
+        background-color: palevioletred;
+    }
+    nav ul li a:hover{
+        color:aqua;
+    }
+
+
+p {
+    font-family: 'Levenim MT';
+    font-size: 12pt;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Levenim MT';
+    text-align: center;
+    font-size: xx-large;
+    padding-top:30px;
+}
+
+#container{
+background-image: url('../imges/green-pattern-surface-131683.jpg');
+padding-bottom:300px;
+background-size: 400px 800px;
+}
+
+#info{
+   clear:both;
+   padding-bottom:100px;
+   padding-top:100px;
+}
+#page2 {
+    background-image: url('../imges/art-background-close-up-1939485.jpg');
+    background-repeat:no-repeat ;
+    padding-bottom: 300px;
+    padding-right:0px;
+    background-size:1800px;
+    
+    
+}
+#mini {
+    border: 20px solid #149595;
+    padding: 20px;
+    margin-right:220px;
+    margin-left:220px;
+    margin-top:30px;
+}
+
+#p1{
+    color:#149595;
+    font-weight:bold;
+    padding:150px;
+    padding-bottom:30px;
+
+}
+#page3 {
+    background-image: url('../imges/art-background-close-up-1939485.jpg');
+    background-repeat: no-repeat;
+    padding-bottom: 300px;
+    padding-right: 0px;
+    background-size: 1800px;
+    
+}
+#p3 {
+    color: #149595;
+    font-weight: bold;
+    padding: 150px;
+    padding-bottom: 30px;
+}
+
+#noy2 {
+    border: 20px solid #149595;
+    padding: 20px;
+    margin-right: 220px;
+    margin-left: 220px;
+    margin-top: 70px;
+}
+#page4 {
+    background-image: url('../imges/art-background-close-up-1939485.jpg');
+    background-repeat: no-repeat;
+    padding-bottom: 300px;
+    padding-right: 0px;
+    background-size: 1800px;
+    }
+
+#p4 {
+    padding: 150px;
+    padding-bottom: 30px;
+    color: #149595;
+    font-weight: bold;
+}
+
+.media
+{
+    border: 20px solid #149595;
+    padding: 20px;
+    margin-right: 330px;
+    margin-left:300px;
+    margin-top: 30px;
+    display:inline-block;
+    
+    }
+
+
+    
+}
