@@ -1,0 +1,32 @@
+﻿
+body {
+    direction: rtl;
+
+    
+}
+
+.info{
+    text-align:center;
+    padding:20px;
+    padding-bottom:50px;
+    color:#ffffff;
+    margin-top:-140px;
+    font-size:20px;
+}
+
+
+        #container {
+            background-color:#000000;
+            border: solid 20px #052972;
+            padding: 150px;
+            font-family: Segoe UI;
+            background-repeat: no-repeat;
+            background-image: url('../PHOTO/technology.jpg');
+            background-position-x: 60px;
+            background-position-y: 150px;
+            background-size: 570px;
+        }
+
+#form{
+   color:aliceblue;
+}
